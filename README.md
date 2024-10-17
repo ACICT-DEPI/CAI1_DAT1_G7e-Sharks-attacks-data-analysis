@@ -68,6 +68,7 @@ Contact
 For questions or inquiries, please contact:
 
 ElSayed Ibrahim ElSayed Ibrahim
+LinkedIn : https://www.linkedin.com/in/elsayed-ibrahim-8102ab2a4/
 Email: elsayedibraheem@hotmail.com
 Mobile: 00201003013667
 We hope you find this project informative and useful. Thank you for your interest in our work!
